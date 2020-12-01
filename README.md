@@ -1,14 +1,10 @@
-# Hi, I'm Jonathan, a software developer from Texas!
+# Hi, I'm Jonathan, a young software developer from Texas!
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=beefywhale&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Where to reach me!
-
-[<img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>beefywhale@gmail.com](https://gmail.com)
-
-[<img align="left" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>Beefywhale#5424](https://discord.com)
-
-## My programming skills!
-As my skills increase so will this list.
+## Programming Languages and Toolkits I know.
+As I continue to develop and learn more skills, this list will increase.
 
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,3 +23,9 @@ As my skills increase so will this list.
 ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+
+## Where to reach me!
+
+[<img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>beefywhale@gmail.com](https://gmail.com)
+
+[<img align="left" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>Beefywhale#5424](https://discord.com)
